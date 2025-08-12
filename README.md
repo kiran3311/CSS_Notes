@@ -8,7 +8,7 @@
 
 * [CSS Coding Practice](css-practice.md)
 * [CSS3 Properties](css3-properties.md)
-* [SCSS Basics](https://github.com/learning-zone/scss-basics)
+* [SCSS Basics](https://github.com/kiran3311/SASS_CSS_Notes)
 * [CSS Multiple Choice Questions](css-multiple-choice-questions.md)
 
 <br/>
